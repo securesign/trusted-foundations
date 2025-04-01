@@ -28,7 +28,7 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
-    "codehike": "^1.0.4",
+    "codehike": "^1.0.5",
     "docusaurus-lunr-search": "^3.4.0",
     "prettier": "^3.5.3",
     "prism-react-renderer": "^2.4.1",
