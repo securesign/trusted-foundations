@@ -28,9 +28,9 @@
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
-    "codehike": "^1.0.4",
+    "codehike": "^1.0.5",
     "docusaurus-lunr-search": "^3.4.0",
-    "prettier": "^3.5.0",
+    "prettier": "^3.5.3",
     "prism-react-renderer": "^2.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
@@ -40,8 +40,8 @@
     "@docusaurus/tsconfig": "3.7.0",
     "@docusaurus/types": "3.7.0",
     "@types/react": "^19.0.10",
-    "typescript": "~5.7.3",
-    "zod": "^3.24.1"
+    "typescript": "~5.8.2",
+    "zod": "^3.24.2"
   },
   "browserslist": {
     "production": [
